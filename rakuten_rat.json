@@ -1,0 +1,500 @@
+{
+    "components": {
+        "fonts": {
+            "value": [
+                "Agency FB",
+                "BankGothic Md BT",
+                "Calibri",
+                "Century",
+                "Century Gothic",
+                "Franklin Gothic",
+                "Haettenschweiler",
+                "Leelawadee",
+                "Lucida Bright",
+                "Lucida Sans",
+                "MS Outlook",
+                "MS Reference Specialty",
+                "MS UI Gothic",
+                "MT Extra",
+                "Marlett",
+                "Microsoft Uighur",
+                "Monotype Corsiva",
+                "Pristina",
+                "Segoe UI Light"
+            ],
+            "duration": 95
+        },
+        "domBlockers": {
+            "duration": 76
+        },
+        "fontPreferences": {
+            "value": {
+                "default": 149.3125,
+                "apple": 149.3125,
+                "serif": 149.3125,
+                "sans": 144.015625,
+                "mono": 121.515625,
+                "min": 9.34375,
+                "system": 147.859375
+            },
+            "duration": 87
+        },
+        "audio": {
+            "value": 124.04347527516074,
+            "duration": 3
+        },
+        "screenFrame": {
+            "value": [
+                0,
+                0,
+                40,
+                0
+            ],
+            "duration": 1
+        },
+        "osCpu": {
+            "duration": 0
+        },
+        "languages": {
+            "value": [
+                [
+                    "vi-VN"
+                ]
+            ],
+            "duration": 0
+        },
+        "colorDepth": {
+            "value": 24,
+            "duration": 0
+        },
+        "deviceMemory": {
+            "value": 8,
+            "duration": 0
+        },
+        "screenResolution": {
+            "value": [
+                1920,
+                1080
+            ],
+            "duration": 0
+        },
+        "hardwareConcurrency": {
+            "value": 48,
+            "duration": 0
+        },
+        "timezone": {
+            "value": "Asia/Saigon",
+            "duration": 4
+        },
+        "sessionStorage": {
+            "value": true,
+            "duration": 0
+        },
+        "localStorage": {
+            "value": true,
+            "duration": 0
+        },
+        "indexedDB": {
+            "value": true,
+            "duration": 0
+        },
+        "openDatabase": {
+            "value": false,
+            "duration": 0
+        },
+        "cpuClass": {
+            "duration": 0
+        },
+        "platform": {
+            "value": "Win32",
+            "duration": 0
+        },
+        "plugins": {
+            "value": [
+                {
+                    "name": "PDF Viewer",
+                    "description": "Portable Document Format",
+                    "mimeTypes": [
+                        {
+                            "type": "application/pdf",
+                            "suffixes": "pdf"
+                        },
+                        {
+                            "type": "text/pdf",
+                            "suffixes": "pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chrome PDF Viewer",
+                    "description": "Portable Document Format",
+                    "mimeTypes": [
+                        {
+                            "type": "application/pdf",
+                            "suffixes": "pdf"
+                        },
+                        {
+                            "type": "text/pdf",
+                            "suffixes": "pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chromium PDF Viewer",
+                    "description": "Portable Document Format",
+                    "mimeTypes": [
+                        {
+                            "type": "application/pdf",
+                            "suffixes": "pdf"
+                        },
+                        {
+                            "type": "text/pdf",
+                            "suffixes": "pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Microsoft Edge PDF Viewer",
+                    "description": "Portable Document Format",
+                    "mimeTypes": [
+                        {
+                            "type": "application/pdf",
+                            "suffixes": "pdf"
+                        },
+                        {
+                            "type": "text/pdf",
+                            "suffixes": "pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "WebKit built-in PDF",
+                    "description": "Portable Document Format",
+                    "mimeTypes": [
+                        {
+                            "type": "application/pdf",
+                            "suffixes": "pdf"
+                        },
+                        {
+                            "type": "text/pdf",
+                            "suffixes": "pdf"
+                        }
+                    ]
+                }
+            ],
+            "duration": 0
+        },
+        "touchSupport": {
+            "value": {
+                "maxTouchPoints": 0,
+                "touchEvent": false,
+                "touchStart": false
+            },
+            "duration": 1
+        },
+        "vendor": {
+            "value": "Google Inc.",
+            "duration": 0
+        },
+        "vendorFlavors": {
+            "value": [
+                "chrome"
+            ],
+            "duration": 0
+        },
+        "cookiesEnabled": {
+            "value": true,
+            "duration": 0
+        },
+        "colorGamut": {
+            "value": "srgb",
+            "duration": 0
+        },
+        "invertedColors": {
+            "duration": 1
+        },
+        "forcedColors": {
+            "value": false,
+            "duration": 0
+        },
+        "monochrome": {
+            "value": 0,
+            "duration": 0
+        },
+        "contrast": {
+            "value": 0,
+            "duration": 0
+        },
+        "reducedMotion": {
+            "value": true,
+            "duration": 0
+        },
+        "hdr": {
+            "value": false,
+            "duration": 0
+        },
+        "math": {
+            "value": {
+                "acos": 1.4473588658278522,
+                "acosh": 709.889355822726,
+                "acoshPf": 355.291251501643,
+                "asin": 0.12343746096704435,
+                "asinh": 0.881373587019543,
+                "asinhPf": 0.8813735870195429,
+                "atanh": 0.5493061443340548,
+                "atanhPf": 0.5493061443340548,
+                "atan": 0.4636476090008061,
+                "sin": 0.8178819121159085,
+                "sinh": 1.1752011936438014,
+                "sinhPf": 2.534342107873324,
+                "cos": -0.8390715290095377,
+                "cosh": 1.5430806348152437,
+                "coshPf": 1.5430806348152437,
+                "tan": -1.4214488238747245,
+                "tanh": 0.7615941559557649,
+                "tanhPf": 0.7615941559557649,
+                "exp": 2.718281828459045,
+                "expm1": 1.718281828459045,
+                "expm1Pf": 1.718281828459045,
+                "log1p": 2.3978952727983707,
+                "log1pPf": 2.3978952727983707,
+                "powPI": 1.9275814160560206e-50
+            },
+            "duration": 0
+        },
+        "videoCard": {
+            "value": {
+                "vendor": "Google Inc. (NVIDIA)",
+                "renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 625 (OEM) (0x0000104B) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+            },
+            "duration": 9
+        },
+        "pdfViewerEnabled": {
+            "value": true,
+            "duration": 0
+        },
+        "architecture": {
+            "value": 255,
+            "duration": 0
+        },
+        "C_webRTC": {
+            "value": {
+                "mediaDevices": [
+                    {
+                        "kind": "audioinput"
+                    },
+                    {
+                        "kind": "audiooutput"
+                    },
+                    {
+                        "kind": "videoinput"
+                    }
+                ],
+                "mediaCapabilities": {
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "mimeType": "audio/opus",
+                            "clockRates": [
+                                48000
+                            ],
+                            "feedbackSupport": [
+                                "transport-cc"
+                            ],
+                            "sdpFmtpLine": [
+                                "minptime=10",
+                                "useinbandfec=1"
+                            ]
+                        },
+                        {
+                            "channels": 2,
+                            "mimeType": "audio/red",
+                            "clockRates": [
+                                48000
+                            ],
+                            "sdpFmtpLine": [
+                                "111/111"
+                            ]
+                        },
+                        {
+                            "channels": 1,
+                            "mimeType": "audio/G722",
+                            "clockRates": [
+                                8000
+                            ]
+                        },
+                        {
+                            "channels": 1,
+                            "mimeType": "audio/PCMU",
+                            "clockRates": [
+                                8000
+                            ]
+                        },
+                        {
+                            "channels": 1,
+                            "mimeType": "audio/PCMA",
+                            "clockRates": [
+                                8000
+                            ]
+                        },
+                        {
+                            "channels": 1,
+                            "mimeType": "audio/CN",
+                            "clockRates": [
+                                8000
+                            ]
+                        },
+                        {
+                            "channels": 1,
+                            "mimeType": "audio/telephone-event",
+                            "clockRates": [
+                                48000,
+                                8000
+                            ]
+                        }
+                    ],
+                    "video": [
+                        {
+                            "mimeType": "video/VP8",
+                            "clockRates": [
+                                90000
+                            ],
+                            "feedbackSupport": [
+                                "goog-remb",
+                                "transport-cc",
+                                "ccm fir",
+                                "nack",
+                                "nack pli"
+                            ]
+                        },
+                        {
+                            "mimeType": "video/rtx",
+                            "clockRates": [
+                                90000
+                            ]
+                        },
+                        {
+                            "mimeType": "video/VP9",
+                            "clockRates": [
+                                90000
+                            ],
+                            "feedbackSupport": [
+                                "goog-remb",
+                                "transport-cc",
+                                "ccm fir",
+                                "nack",
+                                "nack pli"
+                            ],
+                            "sdpFmtpLine": [
+                                "profile-id=0",
+                                "profile-id=2",
+                                "profile-id=1",
+                                "profile-id=3"
+                            ]
+                        },
+                        {
+                            "mimeType": "video/H264",
+                            "clockRates": [
+                                90000
+                            ],
+                            "feedbackSupport": [
+                                "goog-remb",
+                                "transport-cc",
+                                "ccm fir",
+                                "nack",
+                                "nack pli"
+                            ],
+                            "sdpFmtpLine": [
+                                "level-asymmetry-allowed=1",
+                                "packetization-mode=1",
+                                "profile-level-id=42001f",
+                                "packetization-mode=0",
+                                "profile-level-id=42e01f",
+                                "profile-level-id=4d001f",
+                                "profile-level-id=f4001f"
+                            ]
+                        },
+                        {
+                            "mimeType": "video/AV1",
+                            "clockRates": [
+                                90000
+                            ],
+                            "feedbackSupport": [
+                                "goog-remb",
+                                "transport-cc",
+                                "ccm fir",
+                                "nack",
+                                "nack pli"
+                            ],
+                            "sdpFmtpLine": [
+                                "level-idx=5",
+                                "profile=0",
+                                "tier=0",
+                                "profile=1"
+                            ]
+                        },
+                        {
+                            "mimeType": "video/red",
+                            "clockRates": [
+                                90000
+                            ]
+                        },
+                        {
+                            "mimeType": "video/ulpfec",
+                            "clockRates": [
+                                90000
+                            ]
+                        },
+                        {
+                            "mimeType": "video/flexfec-03",
+                            "clockRates": [
+                                90000
+                            ],
+                            "feedbackSupport": [
+                                "goog-remb",
+                                "transport-cc"
+                            ],
+                            "sdpFmtpLine": [
+                                "repair-window=10000000"
+                            ]
+                        }
+                    ]
+                }
+            },
+            "duration": 425
+        },
+        "C_codecs": {
+            "value": [
+                "video/mp4; codecs=\"avc1.42E01E\"",
+                "video/mp4; codecs=\"avc1.58A01E\"",
+                "video/mp4; codecs=\"avc1.4D401E\"",
+                "video/mp4; codecs=\"avc1.640028\"",
+                "video/mp4; codecs=\"av01.0.01M.08\"",
+                "video/webm; codecs=\"vp8\"",
+                "video/webm; codecs=\"vp9\"",
+                "video/webm; codecs=\"av01.0.01M.08\"",
+                "audio/mp4; codecs=\"mp4a.40.2\"",
+                "audio/mp4; codecs=\"mp4a.40.5\"",
+                "audio/mp4; codecs=\"mp4a.67\"",
+                "audio/mp4; codecs=\"opus\"",
+                "audio/mp4; codecs=\"flac\"",
+                "audio/webm; codecs=\"opus\"",
+                "audio/webm; codecs=\"vorbis\""
+            ],
+            "duration": 0
+        },
+        "C_sensors": {
+            "value": {
+                "hasOrientationApi": true,
+                "hasAccelerometerApi": true,
+                "hasOrientationChanged": false,
+                "hasAccelerationChanged": false
+            },
+            "duration": 326
+        }
+    },
+    "hash": "c0269472b5de672fef8a20c3f2f63ed0",
+    "hashesOther": {
+        "hashHardware": "f5fde6e71e5d5b0c542cfb5ae8b54e8f"
+    }
+}
