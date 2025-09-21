@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "POL JS Replacer + Tracker Blocker",
+  "version": "1.0.0",
+  "permissions": ["debugger", "tabs", "storage", "activeTab"],
+  "host_permissions": [
+    "*://www.pokemoncenter-online.com/*",
+    "*://*.google-analytics.com/*",
+    "*://*.googletagmanager.com/*",
+    "*://stats.g.doubleclick.net/*",
+    "*://analytics.google.com/*",
+    "*://connect.facebook.net/*",
+    "*://*.facebook.com/*",
+    "*://graph.facebook.com/*"
+  ],
+  "action": { "default_title": "Replacer" },
+  "background": { "service_worker": "background.js" }
+}
