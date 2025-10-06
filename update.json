@@ -1,5 +1,6 @@
 {
     "version": "30082025v1",
     "license": "license by khuetl",
-    "update": "http://betacaptcha.com:8080/download/beta.zip"
+    "update": "http://betacaptcha.com:8080/download/beta.zip",
+    "orbita": "http://betacaptcha.com:8080/download/orbita.zip"
 }
