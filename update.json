@@ -2,6 +2,6 @@
     "version": "30082025v1",
     "license": "license by khuetl",
     "update": "http://betacaptcha.com:8080/download/Poke Tool.zip",
-    "server": "betacaptcha.com:8080",
+    "server": "103.250.78.136:8080",
     "orbita": ""
 }
